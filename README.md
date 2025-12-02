@@ -1,5 +1,5 @@
-# Palm dataset - 6 000 images
-Dataset containing **6,000**  **human palm** images captured from both right and left hands using front and rear cameras. Designed for **hand detection**, **palm recognition**, and **gesture analysis**, this palm dataset provides diverse training data with metadata on age, gender, and ethnicity for accurate **computer vision** model training.
+# Palm dataset -  500,000  images
+Dataset containing **500,000**  **human palm** images. Designed for **hand detection**, **palm recognition**, and **gesture analysis**, this palm dataset provides diverse training data with metadata on age, gender, and ethnicity for accurate **computer vision** model training.
 
 By leveraging this dataset, researchers and developers can advance **computer vision** models for highly accurate hand detection, palm recognition, and gesture analysis. - **[Get the data](https://unidata.pro/datasets/open-palm-hand-images/?utm_source=github&utm_medium=referral&utm_campaign=open-palm-hand-images)**
 
